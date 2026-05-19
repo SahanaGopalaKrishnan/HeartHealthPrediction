@@ -4,5 +4,9 @@ matplotlib
 seaborn
 scikit-learn
 ipywidgets
+jupyter
+nbconvert
+ipykernel
 ydata-profiling
 setuptools
+wheel
