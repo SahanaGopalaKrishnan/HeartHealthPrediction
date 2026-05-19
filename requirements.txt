@@ -8,5 +8,15 @@ jupyter
 nbconvert
 ipykernel
 ydata-profiling
-setuptools
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+ipywidgets
+jupyter
+nbconvert
+ipykernel
+ydata-profiling
+setuptools==69.5.1
 wheel
