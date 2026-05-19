@@ -1,0 +1,21 @@
+name: HeartHealthPrediction
+
+description: Heart disease prediction project using Python machine learning
+
+python:
+  version: "3.12"
+
+project:
+  title: Heart Health Prediction
+  dataset: heart.csv
+  notebook: Heart Health.ipynb
+
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - ipywidgets
+
